@@ -1,4 +1,14 @@
-# Moonnebula / Mondnebel
+# Moonnebula
+
+## Ideas de nombres
+
+- Moonnebula
+- Mondnebel
+- Moonveil
+- Lunebula
+- Moonhaze
+- Lunaris
+- Nebulab
 
 ## Roles
 
