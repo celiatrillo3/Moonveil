@@ -7,9 +7,9 @@ El jugador encarna a un joven científico que, tras un accidente durante un viaj
 
 ### 2. Descripción del juego
 
-Abejas espaciales en una cueva que den nebuhoney -> nebutinas
-Cabras espaciales dan huevos astrales -> haleygoat
-Mamuts espaciales -> Orbimmuts -> dan lana y horchata
+> - Abejas espaciales en una cueva que den nebuhoney -> nebutinas
+> - Cabras espaciales dan huevos astrales -> haleygoat
+> - Mamuts espaciales -> Orbimmuts -> dan lana y horchata
 
 
 Star-bucks
@@ -17,8 +17,8 @@ El robot no puede salir y hay que mejorarlo
 
 
 #### FINAL DE JUEGO
-Todo peta por la energía nebular. CINE
-1% probabilidad -> sobrevives sin un brazo
+- Todo peta por la energía nebular. CINE
+- 1% probabilidad -> sobrevives sin un brazo
 
 ### 3. Mecánicas del juego
 
