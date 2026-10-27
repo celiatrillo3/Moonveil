@@ -28,7 +28,7 @@ El robot no puede salir y hay que mejorarlo
 > - Necesitas un módulo de cultivo
 > - Los módulos serán apilables en torres de cultivo
 > - Los módulos sueltos necesitan: sustrato, semillas y agua. Tardan mas en crecer
-> - Las torres necesitan: sustrato, semillas, agua y energía nebular lumínica
+> - Las torres necesitan: sustrato, semillas, agua y energía nebular lumínica. Opcional: tanque de agua, otras energías nebulares
 
 
 > **Tipos de energías nebulares**
@@ -36,6 +36,19 @@ El robot no puede salir y hay que mejorarlo
 > - Energía vital: acelera el crecimiento
 > - Energía resonante: si las plantas son de la misma especie acelera el crecimiento y la cantidad
 > - Energía estelar: aumenta la cantidad producida
+
+>**Robots y aparatos**
+> - Los robots aparecerán por el mundo estropeados
+> - Los robots necesitan unas piezas base que si faltan, no funcionará
+> - Esas piezas se pueden quitar y poner, para así, arreglar el robot
+> - Todos los aparatos electrónicos funcionarán de la misma manera
+> - A partir de unas piezas puedes crear otras (se pueden crear dependiendo del nivel de reparación, quizás)
+> - Para añadirle algo de dificultad habrá aparatos o robots (como la nave, los tanques de agua o las torres de cultivo) que necesiten unas piezas que no son las comunes y hay que crearlas
+> > *Funcionamiento de los robots*
+> > - Los robots necesitan energía para encenderse y para mantenerse
+> > - Si añades como pieza una placa lunar solo hará falta que lo enciendas una vez porque después se mantiene encendido
+> > - Opción A: Energía con nebulosas
+> > - Opción B: Energía con alguna planta
 
 
 ### 4. Personajes
