@@ -86,3 +86,10 @@ Compramos el "one more thing" del evento Game Of The Year
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/58c1f8ae-9815-4058-bde4-b403934a7e28" />
 
 <img width="320" height="320" alt="image" src="https://github.com/user-attachments/assets/18aa2f4f-6d1e-4466-b37d-be82cd48cecf" />
+
+<img width="615" height="626" alt="image" src="https://github.com/user-attachments/assets/1e9fa85b-b44b-46b6-ba58-2e1138b3dee0" />
+
+<img width="1200" height="1472" alt="image" src="https://github.com/user-attachments/assets/8246cecc-0c65-4aef-bdb6-7815f7e02468" />
+
+<img width="1152" height="2048" alt="image" src="https://github.com/user-attachments/assets/3892247e-ac38-402b-8c17-9aa0c97d7f1e" />
+
