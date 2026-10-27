@@ -11,6 +11,8 @@ El jugador encarna a un joven científico que, tras un accidente durante un viaj
 > - Cabras espaciales dan huevos astrales -> haleygoat
 > - Mamuts espaciales -> Orbimmuts -> dan lana y horchata
 
+- Nombre de la nave -> Andrómeda, Galandrómeda
+- Nombre del planeta -> a elección del jugador
 
 Star-bucks
 El robot no puede salir y hay que mejorarlo
@@ -37,6 +39,11 @@ El robot no puede salir y hay que mejorarlo
 
 
 ### 4. Personajes
+
+- Los personajes tienen que ser cabezones
+  
+  <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/a672e868-763c-49f6-b387-7a92a54a5806" />
+
 
 ### 5. Niveles y mapas
 
@@ -68,3 +75,14 @@ Compramos el "one more thing" del evento Game Of The Year
 ### 15. Documentación adicional
 
 ### 16. Créditos
+
+
+### IMAGENES DE IDEAS
+
+<img width="375" height="484" alt="image" src="https://github.com/user-attachments/assets/161e64ca-c076-4416-967e-28933512ef2b" />
+
+<img width="643" height="644" alt="image" src="https://github.com/user-attachments/assets/7a8e5c83-866f-440b-8a0c-8098bdb7b534" />
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/58c1f8ae-9815-4058-bde4-b403934a7e28" />
+
+<img width="320" height="320" alt="image" src="https://github.com/user-attachments/assets/18aa2f4f-6d1e-4466-b37d-be82cd48cecf" />
