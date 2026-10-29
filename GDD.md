@@ -89,6 +89,18 @@ Compramos el "one more thing" del evento Game Of The Year
 
 ### 16. Créditos
 
+### 17. Ideas
+
+>- Nombre de los personajes:
+>  > Personaje masculino: Dexter
+>  > Personaje femenino: Lyra
+>- Posibles nombre del planeta:
+>  > Lunaris Veilaris, Veilaria, Kaelum Veilaris.
+>- Posibles nombres de plantas, obejtos del planeta, animales, seres vivos, etc:
+>  > Lirios Moonshroud, StarBugs.
+>- Posibles ideas de animación:
+>  > Ya que la idea de que el planeta este basado en la luna, hacer la animación de los personajes realizando el famoso paso del "Moonwalk".
+
 
 ### IMAGENES DE IDEAS
 
